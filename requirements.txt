@@ -1,0 +1,5 @@
+pandas>=2.0.1
+numpy>=1.24.3
+psycopg2-binary>=2.9.9 #PostgreSQL database adapter for Python
+python-dotenv>=1.0.0,<2.0.0 #Reads .env files into environment variables
+sqlachemy>=2.0.19 #SQL toolkit
