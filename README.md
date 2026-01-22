@@ -65,7 +65,7 @@ Deals Currently Stuck:
 ```
 
 ## Project Structure
-```
+```bash
 pipeline-velocity-tracker/
 ├── sql/
 │   ├── schema.sql               # Table definitions
